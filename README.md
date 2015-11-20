@@ -884,3 +884,5 @@ Google: [Analytics](http://www.google.com/analytics/) | [Keyword Planner](htt
 [Pitcherific:](http://pitcherific.com/) Поможет вам создать, тренировать и улучшить ваш питч (new).
 
 [Startup Equity Calculator:](http://startupequity.io/) Определитесь, какой частью в капитале вы можете поделиться с новым сотрудниками (new).
+
+Оригинальная статься на [habrahabr](http://habrahabr.ru/post/271279/)
